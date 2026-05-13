@@ -2,9 +2,9 @@
 
 > Axum + SQLx + Tokio. Performance de C com ergonomia moderna. Zero runtime overhead, zero garbage collection, zero null pointer em produção.
 
-[![Rust](https://img.shields.io/badge/Rust-2024-000000?style=flat&logo=rust&logoColor=white)](https://rust-lang.org)
+[![Rust](https://img.shields.io/badge/Rust-1.85-000000?style=flat&logo=rust&logoColor=white)](https://rust-lang.org)
 [![Axum](https://img.shields.io/badge/Axum-0.7-orange?style=flat)](https://github.com/tokio-rs/axum)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Tech Reference](https://img.shields.io/badge/Czanix-Tech%20Reference-gold)](https://czanix.com/pt/stack)
 
